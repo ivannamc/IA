@@ -1,0 +1,26 @@
+function par(numero) //par o impar
+{
+	if (numero% 2== 0)
+{
+	console.log("es par")
+}
+else {
+		 console.log("impar")
+	}}
+
+
+//Primo 
+function Primo(numero){
+for(var i=1;i<=numero;i++)
+{
+    	if(numero%i==0){}
+}
+
+if(numero==2)
+{
+    console.log("es primo");
+
+}else{
+    
+    console.log("no es primo"); 
+}}
